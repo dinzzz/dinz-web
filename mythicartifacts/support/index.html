@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Support — Vault of Aeon</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            background-color: #0a0a0a;
+            color: #e0e0e0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.7;
+            padding: 40px 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1 { color: #ffffff; font-size: 2em; margin-bottom: 8px; font-weight: 700; }
+        .subtitle { color: #888; margin-bottom: 32px; font-size: 1.05em; }
+        h2 {
+            color: #ffffff; font-size: 1.4em;
+            margin-top: 40px; margin-bottom: 12px;
+            padding-bottom: 6px; border-bottom: 1px solid #222; font-weight: 600;
+        }
+        h3 { color: #cccccc; font-size: 1.15em; margin-top: 28px; margin-bottom: 8px; font-weight: 600; }
+        p { margin-bottom: 14px; color: #c0c0c0; }
+        ul { margin: 10px 0 18px 24px; color: #c0c0c0; }
+        li { margin-bottom: 6px; }
+        a { color: #d4a843; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        strong { color: #e0e0e0; }
+        .contact-card {
+            background: #111111;
+            border: 1px solid #1e1e1e;
+            border-radius: 12px;
+            padding: 24px;
+            margin: 24px 0;
+        }
+        .contact-card a {
+            font-size: 1.1em;
+            font-weight: 600;
+        }
+        .footer {
+            margin-top: 60px;
+            padding-top: 20px;
+            border-top: 1px solid #222;
+            font-size: 0.9em;
+            color: #666;
+        }
+        .footer a { color: #888; }
+    </style>
+</head>
+<body>
+<h1>Support — Vault of Aeon</h1>
+<p class="subtitle">Help, troubleshooting, and how to reach us.</p>
+
+<div class="contact-card">
+    <p><strong>Need help right now?</strong></p>
+    <p>Email <a href="mailto:support@dinz.io?subject=Vault%20of%20Aeon%20Support">support@dinz.io</a></p>
+    <p style="color: #888; font-size: 0.95em; margin-top: 8px;">We aim to respond within 2 business days. Please include your iOS version, device model, and a brief description of the issue.</p>
+</div>
+
+<h2>Common Questions</h2>
+
+<h3>I lost my collection after reinstalling the app</h3>
+<p>If you signed in with Apple or Google before reinstalling, your collection will sync automatically the next time you sign back in with the same account. Open the app, go to <strong>Settings → Sign In</strong>, and choose the same method you used before.</p>
+<p>If you played without signing in (anonymous mode), the collection is stored only on the device and cannot be recovered after deletion.</p>
+
+<h3>I made a purchase but didn't receive my gems / Mythic Pass</h3>
+<p>First, try <strong>Settings → Restore Purchases</strong>. This re-syncs your purchase history with Apple.</p>
+<p>If the issue persists, please email us with:</p>
+<ul>
+    <li>The Apple ID email used for the purchase</li>
+    <li>The approximate date and time of the transaction</li>
+    <li>The product you purchased (e.g., Mythic Pass, 150 Gems)</li>
+    <li>A screenshot of the Apple receipt if available</li>
+</ul>
+<p>We'll investigate the receipt validation logs and grant the item manually if needed.</p>
+
+<h3>How do I cancel my Mythic Pass subscription?</h3>
+<p>Subscriptions are managed by Apple, not by us. Open <strong>Settings</strong> on your iPhone → tap your name at the top → <strong>Subscriptions</strong> → <strong>Vault of Aeon</strong> → <strong>Cancel Subscription</strong>. You will keep Mythic Pass benefits until the end of the current billing period.</p>
+
+<h3>How do I delete my account?</h3>
+<p>Inside the app: <strong>Settings → Delete Account</strong>. This permanently removes your account and all associated collection data from our servers within 30 days. The action cannot be undone.</p>
+<p>If you can't access the app, email us with the email address tied to your account and we will delete it manually.</p>
+
+<h3>How does the gacha (summoning) system work?</h3>
+<p>Every summon draws from a weighted pool of 120 artifacts across 6 rarity tiers. Full drop rates are disclosed in-app on the Summon screen. The system includes a <strong>pity counter</strong> that guarantees an Epic artifact every 30 pulls and a Legendary artifact every 90 pulls — no luck required to reach the top tiers eventually.</p>
+
+<h3>What's the difference between Mythic Pass and Eternal Vault?</h3>
+<ul>
+    <li><strong>Mythic Pass</strong> — monthly subscription ($6.99/month). Grants 10 daily pulls, 2× pity speed, 2× echo fragment rate, and a weekly bonus chest. Cancellable anytime.</li>
+    <li><strong>Eternal Vault</strong> — one-time purchase ($39.99). Grants the same benefits as Mythic Pass, but permanently, with no recurring charge.</li>
+</ul>
+
+<h3>The Fate Compass / Vault Target / Gambit didn't reward me</h3>
+<p>These systems run on deterministic timers (48-hour Compass rotation, 7-day Vault Target cycle, daily Gambit refresh). If you believe a reward was missed, take a screenshot of the relevant screen and email us. We can audit your account's pull history and grant the reward if applicable.</p>
+
+<h3>I'm signed in but my collection looks empty / wrong on this device</h3>
+<p>Force-close and reopen the app. The collection re-syncs from our backend on launch. If the issue persists, sign out and back in. If still wrong, email us — we can manually trigger a server-side resync.</p>
+
+<h3>The app crashes on launch / a specific screen</h3>
+<p>Please email us with:</p>
+<ul>
+    <li>Device model (e.g., iPhone 15 Pro)</li>
+    <li>iOS version (Settings → General → About → iOS Version)</li>
+    <li>What you were doing when the crash happened</li>
+    <li>Whether it happens every time or occasionally</li>
+</ul>
+<p>If you've allowed crash reporting (Crashlytics), we may already have a trace tied to your install.</p>
+
+<h3>I want to request a feature or report a bug</h3>
+<p>We love hearing from players. Email <a href="mailto:support@dinz.io?subject=Vault%20of%20Aeon%20Feedback">support@dinz.io</a> with the subject "Feedback" and tell us what's on your mind.</p>
+
+<h2>System Requirements</h2>
+<ul>
+    <li>iPhone running <strong>iOS 17.0 or later</strong></li>
+    <li>Internet connection required for sign-in, cloud sync, and in-app purchases</li>
+    <li>The app can be played offline once your collection has loaded once — purchases and sync resume when reconnected</li>
+</ul>
+
+<h2>Privacy &amp; Terms</h2>
+<ul>
+    <li><a href="/app-privacy/mythicartifacts/">Privacy Policy</a></li>
+    <li><a href="/app-privacy/terms/mythicartifacts/">Terms of Use</a></li>
+</ul>
+
+<h2>Contact</h2>
+<p><strong>Email:</strong> <a href="mailto:support@dinz.io?subject=Vault%20of%20Aeon%20Support">support@dinz.io</a></p>
+<p><strong>Response time:</strong> within 2 business days</p>
+<p><strong>Developer:</strong> Dino Bozic, Dinz Studio</p>
+
+<div class="footer">
+    <p>Vault of Aeon · © 2026 Dinz · <a href="https://apps.apple.com/app/id6765771969">App Store</a></p>
+</div>
+</body>
+</html>
