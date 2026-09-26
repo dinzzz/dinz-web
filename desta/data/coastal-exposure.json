@@ -1,0 +1,2613 @@
+{
+  "attribution": "© OpenStreetMap contributors; adaptations by Dinzel IT d.o.o.",
+  "license": "ODbL-1.0",
+  "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "records": [
+    {
+      "id": "uvala-okuklje",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 4,
+        "originLat": 42.7256,
+        "originLon": 17.6742,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "higher",
+            "fetchKm": 11.46
+          },
+          "levant": {
+            "level": "higher",
+            "fetchKm": 8.96
+          },
+          "jugo": {
+            "level": "lower",
+            "fetchKm": 0.22
+          },
+          "ostro": {
+            "level": "lower",
+            "fetchKm": 0.28
+          },
+          "lebic": {
+            "level": "lower",
+            "fetchKm": 0.43
+          },
+          "pulenat": {
+            "level": "lower",
+            "fetchKm": 0.6
+          },
+          "maestral": {
+            "level": "higher",
+            "fetchKm": 12.99
+          }
+        }
+      }
+    },
+    {
+      "id": "port-krk-luka-surbova-baska-putnicka-luka",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 6,
+        "originLat": 44.94724,
+        "originLon": 14.700838,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.4
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.23
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.59
+          },
+          "jugo": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "ostro": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "maestral": {
+            "level": "higher",
+            "fetchKm": 20.0
+          }
+        }
+      }
+    },
+    {
+      "id": "port-krk-luka-njivice-bazen-pod-rov",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 45.174115,
+        "originLon": 14.541392,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.4
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.28
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.31
+          },
+          "jugo": {
+            "level": "moderate",
+            "fetchKm": 1.08
+          },
+          "ostro": {
+            "level": "moderate",
+            "fetchKm": 2.9
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 18.2
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "maestral": {
+            "level": "higher",
+            "fetchKm": 20.0
+          }
+        }
+      }
+    },
+    {
+      "id": "port-krk-luka-omisalj-bazen-hotel-jadran",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 45.216006,
+        "originLon": 14.550773,
+        "originOffsetM": 0,
+        "directions": {
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.57
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.29
+          },
+          "jugo": {
+            "level": "lower",
+            "fetchKm": 0.49
+          },
+          "ostro": {
+            "level": "moderate",
+            "fetchKm": 1.15
+          },
+          "lebic": {
+            "level": "lower",
+            "fetchKm": 0.82
+          },
+          "pulenat": {
+            "level": "moderate",
+            "fetchKm": 1.14
+          }
+        }
+      }
+    },
+    {
+      "id": "port-krk-luka-omisalj-bazen-lucica",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 4,
+        "originLat": 45.228987,
+        "originLon": 14.547087,
+        "originOffsetM": 0,
+        "directions": {
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.41
+          },
+          "jugo": {
+            "level": "moderate",
+            "fetchKm": 1.15
+          },
+          "ostro": {
+            "level": "moderate",
+            "fetchKm": 2.31
+          },
+          "lebic": {
+            "level": "moderate",
+            "fetchKm": 1.52
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 20.0
+          }
+        }
+      }
+    },
+    {
+      "id": "port-krk-luka-omisalj-bazen-pod-dubec",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 45.213725,
+        "originLon": 14.55101,
+        "originOffsetM": 0,
+        "directions": {
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.46
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.25
+          },
+          "jugo": {
+            "level": "lower",
+            "fetchKm": 0.37
+          },
+          "ostro": {
+            "level": "lower",
+            "fetchKm": 0.82
+          },
+          "lebic": {
+            "level": "lower",
+            "fetchKm": 0.76
+          },
+          "pulenat": {
+            "level": "moderate",
+            "fetchKm": 1.13
+          }
+        }
+      }
+    },
+    {
+      "id": "port-krk-luka-rova-malinska",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 4,
+        "originLat": 45.116777,
+        "originLon": 14.514277,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "bura": {
+            "level": "moderate",
+            "fetchKm": 3.36
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.6
+          },
+          "jugo": {
+            "level": "lower",
+            "fetchKm": 0.21
+          },
+          "ostro": {
+            "level": "lower",
+            "fetchKm": 0.21
+          },
+          "lebic": {
+            "level": "lower",
+            "fetchKm": 0.39
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 13.13
+          },
+          "maestral": {
+            "level": "higher",
+            "fetchKm": 20.0
+          }
+        }
+      }
+    },
+    {
+      "id": "port-krk-luka-voz-bazen-slivanjska",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 4,
+        "originLat": 45.187346,
+        "originLon": 14.613969,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "moderate",
+            "fetchKm": 3.61
+          },
+          "bura": {
+            "level": "moderate",
+            "fetchKm": 3.55
+          },
+          "levant": {
+            "level": "higher",
+            "fetchKm": 8.92
+          },
+          "jugo": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "ostro": {
+            "level": "lower",
+            "fetchKm": 0.42
+          },
+          "lebic": {
+            "level": "lower",
+            "fetchKm": 0.21
+          },
+          "pulenat": {
+            "level": "lower",
+            "fetchKm": 0.26
+          },
+          "maestral": {
+            "level": "lower",
+            "fetchKm": 0.27
+          }
+        }
+      }
+    },
+    {
+      "id": "port-split-arbanija",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 6,
+        "originLat": 43.5138863,
+        "originLon": 16.3005033,
+        "originOffsetM": 4,
+        "directions": {
+          "tramontana": {
+            "level": "moderate",
+            "fetchKm": 3.34
+          },
+          "bura": {
+            "level": "higher",
+            "fetchKm": 9.01
+          },
+          "levant": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "jugo": {
+            "level": "higher",
+            "fetchKm": 7.48
+          },
+          "ostro": {
+            "level": "lower",
+            "fetchKm": 0.3
+          },
+          "lebic": {
+            "level": "lower",
+            "fetchKm": 0.5
+          },
+          "pulenat": {
+            "level": "moderate",
+            "fetchKm": 3.82
+          },
+          "maestral": {
+            "level": "moderate",
+            "fetchKm": 2.79
+          }
+        }
+      }
+    },
+    {
+      "id": "port-split-kastel-gomilica",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 43.5478139,
+        "originLon": 16.395644,
+        "originOffsetM": 174,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.2
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.26
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.9
+          },
+          "jugo": {
+            "level": "moderate",
+            "fetchKm": 4.33
+          },
+          "ostro": {
+            "level": "higher",
+            "fetchKm": 6.78
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 9.93
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 11.45
+          },
+          "maestral": {
+            "level": "lower",
+            "fetchKm": 0.67
+          }
+        }
+      }
+    },
+    {
+      "id": "port-split-kastel-kambelovac",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 43.54833,
+        "originLon": 16.38436,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.23
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.45
+          },
+          "levant": {
+            "level": "higher",
+            "fetchKm": 7.59
+          },
+          "jugo": {
+            "level": "higher",
+            "fetchKm": 5.61
+          },
+          "ostro": {
+            "level": "higher",
+            "fetchKm": 6.73
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 9.68
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 9.68
+          },
+          "maestral": {
+            "level": "lower",
+            "fetchKm": 0.52
+          }
+        }
+      }
+    },
+    {
+      "id": "port-split-kastel-luksic",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 6,
+        "originLat": 43.55014,
+        "originLon": 16.36381,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.25
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.45
+          },
+          "levant": {
+            "level": "higher",
+            "fetchKm": 9.48
+          },
+          "jugo": {
+            "level": "higher",
+            "fetchKm": 19.27
+          },
+          "ostro": {
+            "level": "higher",
+            "fetchKm": 19.27
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 8.37
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 5.59
+          },
+          "maestral": {
+            "level": "lower",
+            "fetchKm": 0.71
+          }
+        }
+      }
+    },
+    {
+      "id": "port-split-kastel-sucurac",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 6,
+        "originLat": 43.54469,
+        "originLon": 16.42597,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.35
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.54
+          },
+          "levant": {
+            "level": "moderate",
+            "fetchKm": 1.31
+          },
+          "jugo": {
+            "level": "moderate",
+            "fetchKm": 3.6
+          },
+          "ostro": {
+            "level": "moderate",
+            "fetchKm": 3.61
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 9.91
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 13.9
+          },
+          "maestral": {
+            "level": "lower",
+            "fetchKm": 0.59
+          }
+        }
+      }
+    },
+    {
+      "id": "port-split-krilo-jesenice",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 4,
+        "originLat": 43.46044,
+        "originLon": 16.59937,
+        "originOffsetM": 0,
+        "directions": {
+          "jugo": {
+            "level": "higher",
+            "fetchKm": 17.86
+          },
+          "ostro": {
+            "level": "higher",
+            "fetchKm": 10.49
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 20.0
+          }
+        }
+      }
+    },
+    {
+      "id": "port-split-marina",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 2,
+        "originLat": 43.51223,
+        "originLon": 16.11441,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.61
+          },
+          "levant": {
+            "level": "higher",
+            "fetchKm": 5.42
+          },
+          "ostro": {
+            "level": "lower",
+            "fetchKm": 0.18
+          },
+          "lebic": {
+            "level": "lower",
+            "fetchKm": 0.18
+          },
+          "pulenat": {
+            "level": "lower",
+            "fetchKm": 0.42
+          },
+          "maestral": {
+            "level": "lower",
+            "fetchKm": 0.4
+          }
+        }
+      }
+    },
+    {
+      "id": "port-split-mimice",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 4,
+        "originLat": 43.4045,
+        "originLon": 16.80826,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.27
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.26
+          },
+          "levant": {
+            "level": "higher",
+            "fetchKm": 11.27
+          },
+          "ostro": {
+            "level": "higher",
+            "fetchKm": 7.81
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 10.53
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "maestral": {
+            "level": "lower",
+            "fetchKm": 0.35
+          }
+        }
+      }
+    },
+    {
+      "id": "port-split-pisak",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 43.39913,
+        "originLon": 16.86009,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.23
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.38
+          },
+          "levant": {
+            "level": "moderate",
+            "fetchKm": 3.98
+          },
+          "jugo": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "ostro": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 10.89
+          },
+          "maestral": {
+            "level": "moderate",
+            "fetchKm": 1.09
+          }
+        }
+      }
+    },
+    {
+      "id": "port-split-seget-donji",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 43.51711,
+        "originLon": 16.22754,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.24
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.34
+          },
+          "levant": {
+            "level": "moderate",
+            "fetchKm": 1.74
+          },
+          "jugo": {
+            "level": "moderate",
+            "fetchKm": 3.64
+          },
+          "ostro": {
+            "level": "moderate",
+            "fetchKm": 2.79
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "pulenat": {
+            "level": "moderate",
+            "fetchKm": 4.79
+          },
+          "maestral": {
+            "level": "lower",
+            "fetchKm": 0.59
+          }
+        }
+      }
+    },
+    {
+      "id": "port-split-slatine",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 43.4991662,
+        "originLon": 16.3395676,
+        "originOffsetM": 16,
+        "directions": {
+          "tramontana": {
+            "level": "higher",
+            "fetchKm": 6.24
+          },
+          "bura": {
+            "level": "higher",
+            "fetchKm": 9.53
+          },
+          "levant": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "jugo": {
+            "level": "moderate",
+            "fetchKm": 3.56
+          },
+          "ostro": {
+            "level": "lower",
+            "fetchKm": 0.52
+          },
+          "lebic": {
+            "level": "lower",
+            "fetchKm": 0.22
+          },
+          "pulenat": {
+            "level": "moderate",
+            "fetchKm": 1.74
+          },
+          "maestral": {
+            "level": "higher",
+            "fetchKm": 6.0
+          }
+        }
+      }
+    },
+    {
+      "id": "port-split-stobrec",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 4,
+        "originLat": 43.49991,
+        "originLon": 16.52382,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.33
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.81
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.94
+          },
+          "ostro": {
+            "level": "higher",
+            "fetchKm": 14.36
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "pulenat": {
+            "level": "lower",
+            "fetchKm": 0.28
+          },
+          "maestral": {
+            "level": "lower",
+            "fetchKm": 0.28
+          }
+        }
+      }
+    },
+    {
+      "id": "port-split-vranjic",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 6,
+        "originLat": 43.5309,
+        "originLon": 16.46535,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.59
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.76
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.93
+          },
+          "jugo": {
+            "level": "lower",
+            "fetchKm": 0.54
+          },
+          "ostro": {
+            "level": "lower",
+            "fetchKm": 0.32
+          },
+          "lebic": {
+            "level": "lower",
+            "fetchKm": 0.85
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 12.88
+          },
+          "maestral": {
+            "level": "moderate",
+            "fetchKm": 1.78
+          }
+        }
+      }
+    },
+    {
+      "id": "port-split-zaostrog",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 43.13908,
+        "originLon": 17.27845,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.36
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.36
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.7
+          },
+          "jugo": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "ostro": {
+            "level": "higher",
+            "fetchKm": 19.4
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "maestral": {
+            "level": "higher",
+            "fetchKm": 20.0
+          }
+        }
+      }
+    },
+    {
+      "id": "port-split-zivogosce",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 43.18839,
+        "originLon": 17.15776,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.69
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.27
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.55
+          },
+          "jugo": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "ostro": {
+            "level": "higher",
+            "fetchKm": 7.2
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 12.89
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "maestral": {
+            "level": "higher",
+            "fetchKm": 20.0
+          }
+        }
+      }
+    },
+    {
+      "id": "port-split-zapadna-obala",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 6,
+        "originLat": 43.5046203,
+        "originLon": 16.4307532,
+        "originOffsetM": 48,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.47
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.92
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.95
+          },
+          "jugo": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "ostro": {
+            "level": "higher",
+            "fetchKm": 18.56
+          },
+          "lebic": {
+            "level": "lower",
+            "fetchKm": 0.61
+          },
+          "pulenat": {
+            "level": "lower",
+            "fetchKm": 0.37
+          },
+          "maestral": {
+            "level": "lower",
+            "fetchKm": 0.24
+          }
+        }
+      }
+    },
+    {
+      "id": "port-dubrovnik-gornje-celo",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 4,
+        "originLat": 42.6706915,
+        "originLon": 18.017559,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "moderate",
+            "fetchKm": 2.97
+          },
+          "bura": {
+            "level": "moderate",
+            "fetchKm": 3.1
+          },
+          "levant": {
+            "level": "moderate",
+            "fetchKm": 4.14
+          },
+          "jugo": {
+            "level": "moderate",
+            "fetchKm": 4.24
+          },
+          "ostro": {
+            "level": "lower",
+            "fetchKm": 0.37
+          },
+          "lebic": {
+            "level": "lower",
+            "fetchKm": 0.28
+          },
+          "pulenat": {
+            "level": "lower",
+            "fetchKm": 0.3
+          },
+          "maestral": {
+            "level": "moderate",
+            "fetchKm": 2.97
+          }
+        }
+      }
+    },
+    {
+      "id": "port-dubrovnik-luka-brsecine",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 3,
+        "originLat": 42.7284117,
+        "originLon": 17.9530367,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.25
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.29
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.53
+          },
+          "jugo": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "ostro": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "pulenat": {
+            "level": "moderate",
+            "fetchKm": 3.58
+          },
+          "maestral": {
+            "level": "lower",
+            "fetchKm": 0.2
+          }
+        }
+      }
+    },
+    {
+      "id": "port-dubrovnik-luka-donje-celo-kolocep",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 42.6798913,
+        "originLon": 18.0053392,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "moderate",
+            "fetchKm": 2.94
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.24
+          },
+          "jugo": {
+            "level": "lower",
+            "fetchKm": 0.41
+          },
+          "ostro": {
+            "level": "lower",
+            "fetchKm": 0.45
+          },
+          "lebic": {
+            "level": "moderate",
+            "fetchKm": 1.06
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 20.0
+          }
+        }
+      }
+    },
+    {
+      "id": "port-dubrovnik-luka-jakljan",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 4,
+        "originLat": 42.737698,
+        "originLon": 17.8296732,
+        "originOffsetM": 28,
+        "directions": {
+          "tramontana": {
+            "level": "higher",
+            "fetchKm": 7.81
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.27
+          },
+          "ostro": {
+            "level": "lower",
+            "fetchKm": 0.24
+          },
+          "lebic": {
+            "level": "lower",
+            "fetchKm": 0.32
+          },
+          "pulenat": {
+            "level": "lower",
+            "fetchKm": 0.63
+          },
+          "maestral": {
+            "level": "higher",
+            "fetchKm": 10.79
+          }
+        }
+      }
+    },
+    {
+      "id": "port-dubrovnik-luka-orasac",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 42.6967419,
+        "originLon": 18.0034348,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.37
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.25
+          },
+          "levant": {
+            "level": "moderate",
+            "fetchKm": 4.75
+          },
+          "jugo": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "ostro": {
+            "level": "moderate",
+            "fetchKm": 2.32
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 8.71
+          },
+          "maestral": {
+            "level": "higher",
+            "fetchKm": 20.0
+          }
+        }
+      }
+    },
+    {
+      "id": "port-dubrovnik-luka-suura",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 3,
+        "originLat": 42.7107134,
+        "originLon": 17.9108264,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.34
+          },
+          "bura": {
+            "level": "moderate",
+            "fetchKm": 4.08
+          },
+          "levant": {
+            "level": "higher",
+            "fetchKm": 8.19
+          },
+          "jugo": {
+            "level": "higher",
+            "fetchKm": 8.19
+          },
+          "ostro": {
+            "level": "lower",
+            "fetchKm": 0.33
+          },
+          "lebic": {
+            "level": "lower",
+            "fetchKm": 0.23
+          },
+          "pulenat": {
+            "level": "lower",
+            "fetchKm": 0.28
+          },
+          "maestral": {
+            "level": "lower",
+            "fetchKm": 0.23
+          }
+        }
+      }
+    },
+    {
+      "id": "port-dubrovnik-luka-trsteno",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 6,
+        "originLat": 42.7103187,
+        "originLon": 17.9760893,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.38
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.24
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.52
+          },
+          "jugo": {
+            "level": "higher",
+            "fetchKm": 9.62
+          },
+          "ostro": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "maestral": {
+            "level": "higher",
+            "fetchKm": 20.0
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-dinjiska",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 44.3585833,
+        "originLon": 15.1870833,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.27
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.98
+          },
+          "ostro": {
+            "level": "lower",
+            "fetchKm": 0.69
+          },
+          "lebic": {
+            "level": "lower",
+            "fetchKm": 0.53
+          },
+          "pulenat": {
+            "level": "lower",
+            "fetchKm": 0.56
+          },
+          "maestral": {
+            "level": "lower",
+            "fetchKm": 0.44
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-kosljun",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 44.3981111,
+        "originLon": 15.0750278,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.28
+          },
+          "levant": {
+            "level": "moderate",
+            "fetchKm": 1.97
+          },
+          "jugo": {
+            "level": "moderate",
+            "fetchKm": 4.54
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "pulenat": {
+            "level": "lower",
+            "fetchKm": 0.95
+          },
+          "maestral": {
+            "level": "lower",
+            "fetchKm": 0.74
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-kozino-primorje",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 44.1639167,
+        "originLon": 15.1872778,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.6
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.23
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.41
+          },
+          "jugo": {
+            "level": "moderate",
+            "fetchKm": 4.02
+          },
+          "ostro": {
+            "level": "higher",
+            "fetchKm": 13.69
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 7.7
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "maestral": {
+            "level": "higher",
+            "fetchKm": 20.0
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-miskovci",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 44.3371825,
+        "originLon": 15.2268561,
+        "originOffsetM": 10,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.45
+          },
+          "levant": {
+            "level": "moderate",
+            "fetchKm": 1.6
+          },
+          "ostro": {
+            "level": "higher",
+            "fetchKm": 10.27
+          },
+          "lebic": {
+            "level": "lower",
+            "fetchKm": 0.93
+          },
+          "pulenat": {
+            "level": "moderate",
+            "fetchKm": 2.05
+          },
+          "maestral": {
+            "level": "moderate",
+            "fetchKm": 4.46
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-privlaka",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 44.2658056,
+        "originLon": 15.1179444,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "moderate",
+            "fetchKm": 3.74
+          },
+          "bura": {
+            "level": "moderate",
+            "fetchKm": 4.58
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.87
+          },
+          "jugo": {
+            "level": "lower",
+            "fetchKm": 0.35
+          },
+          "ostro": {
+            "level": "lower",
+            "fetchKm": 0.29
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 19.27
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "maestral": {
+            "level": "higher",
+            "fetchKm": 5.4
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-smokvica",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 4,
+        "originLat": 44.3185278,
+        "originLon": 15.1890833,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.22
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.24
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.74
+          },
+          "jugo": {
+            "level": "higher",
+            "fetchKm": 11.65
+          },
+          "ostro": {
+            "level": "higher",
+            "fetchKm": 7.73
+          },
+          "lebic": {
+            "level": "moderate",
+            "fetchKm": 3.01
+          },
+          "pulenat": {
+            "level": "moderate",
+            "fetchKm": 3.11
+          },
+          "maestral": {
+            "level": "lower",
+            "fetchKm": 0.3
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-vir-luka",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 6,
+        "originLat": 44.2945556,
+        "originLon": 15.1056389,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.43
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.25
+          },
+          "levant": {
+            "level": "moderate",
+            "fetchKm": 1.28
+          },
+          "jugo": {
+            "level": "moderate",
+            "fetchKm": 3.51
+          },
+          "ostro": {
+            "level": "higher",
+            "fetchKm": 19.02
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 19.77
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 19.0
+          },
+          "maestral": {
+            "level": "moderate",
+            "fetchKm": 1.28
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-vir-uvala-biskupnjaca",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 4,
+        "originLat": 44.3181944,
+        "originLon": 15.0560556,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "higher",
+            "fetchKm": 16.69
+          },
+          "bura": {
+            "level": "higher",
+            "fetchKm": 8.56
+          },
+          "levant": {
+            "level": "moderate",
+            "fetchKm": 3.81
+          },
+          "jugo": {
+            "level": "lower",
+            "fetchKm": 0.48
+          },
+          "ostro": {
+            "level": "lower",
+            "fetchKm": 0.31
+          },
+          "lebic": {
+            "level": "lower",
+            "fetchKm": 0.32
+          },
+          "pulenat": {
+            "level": "lower",
+            "fetchKm": 0.44
+          },
+          "maestral": {
+            "level": "higher",
+            "fetchKm": 20.0
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-vir-uvala-lucica",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 44.3080833,
+        "originLon": 15.0913889,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "higher",
+            "fetchKm": 10.3
+          },
+          "bura": {
+            "level": "moderate",
+            "fetchKm": 2.33
+          },
+          "levant": {
+            "level": "moderate",
+            "fetchKm": 2.5
+          },
+          "jugo": {
+            "level": "lower",
+            "fetchKm": 0.37
+          },
+          "ostro": {
+            "level": "lower",
+            "fetchKm": 0.24
+          },
+          "lebic": {
+            "level": "lower",
+            "fetchKm": 0.27
+          },
+          "pulenat": {
+            "level": "moderate",
+            "fetchKm": 1.29
+          },
+          "maestral": {
+            "level": "higher",
+            "fetchKm": 20.0
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-vir-uvala-prezida",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 4,
+        "originLat": 44.2905833,
+        "originLon": 15.1173333,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.33
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.35
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.36
+          },
+          "jugo": {
+            "level": "lower",
+            "fetchKm": 0.52
+          },
+          "ostro": {
+            "level": "higher",
+            "fetchKm": 16.94
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 19.8
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "maestral": {
+            "level": "moderate",
+            "fetchKm": 2.4
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-vir-uvala-sapavac",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 6,
+        "originLat": 44.2971944,
+        "originLon": 15.085,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.26
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.49
+          },
+          "levant": {
+            "level": "moderate",
+            "fetchKm": 2.93
+          },
+          "jugo": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 16.57
+          },
+          "pulenat": {
+            "level": "lower",
+            "fetchKm": 0.9
+          },
+          "maestral": {
+            "level": "lower",
+            "fetchKm": 0.32
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-zadar-jazine",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 3,
+        "originLat": 44.1148333,
+        "originLon": 15.2316111,
+        "originOffsetM": 0,
+        "directions": {
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.17
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.19
+          },
+          "jugo": {
+            "level": "lower",
+            "fetchKm": 0.62
+          },
+          "ostro": {
+            "level": "lower",
+            "fetchKm": 0.48
+          },
+          "lebic": {
+            "level": "lower",
+            "fetchKm": 0.14
+          },
+          "pulenat": {
+            "level": "lower",
+            "fetchKm": 0.24
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-zaton-uvala-draznik",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 44.2259167,
+        "originLon": 15.1649167,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.9
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.47
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.47
+          },
+          "jugo": {
+            "level": "lower",
+            "fetchKm": 0.36
+          },
+          "ostro": {
+            "level": "moderate",
+            "fetchKm": 3.66
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 15.64
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "maestral": {
+            "level": "higher",
+            "fetchKm": 20.0
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-ljubacka-vala",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 7,
+        "originLat": 44.2604167,
+        "originLon": 15.2929167,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "higher",
+            "fetchKm": 7.74
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.41
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.73
+          },
+          "jugo": {
+            "level": "moderate",
+            "fetchKm": 1.55
+          },
+          "ostro": {
+            "level": "moderate",
+            "fetchKm": 1.82
+          },
+          "lebic": {
+            "level": "moderate",
+            "fetchKm": 2.03
+          },
+          "pulenat": {
+            "level": "moderate",
+            "fetchKm": 4.93
+          },
+          "maestral": {
+            "level": "higher",
+            "fetchKm": 14.61
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-poljana",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 4,
+        "originLat": 44.0921389,
+        "originLon": 15.1846111,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "bura": {
+            "level": "moderate",
+            "fetchKm": 4.87
+          },
+          "ostro": {
+            "level": "moderate",
+            "fetchKm": 3.29
+          },
+          "lebic": {
+            "level": "lower",
+            "fetchKm": 0.45
+          },
+          "pulenat": {
+            "level": "lower",
+            "fetchKm": 0.16
+          },
+          "maestral": {
+            "level": "higher",
+            "fetchKm": 20.0
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-povljana",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 44.3478889,
+        "originLon": 15.1040833,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.24
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.38
+          },
+          "ostro": {
+            "level": "moderate",
+            "fetchKm": 1.2
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-privlaka-uvala-loznica",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 44.2569444,
+        "originLon": 15.1209167,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.27
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.28
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.71
+          },
+          "jugo": {
+            "level": "higher",
+            "fetchKm": 7.05
+          },
+          "ostro": {
+            "level": "higher",
+            "fetchKm": 17.42
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "maestral": {
+            "level": "higher",
+            "fetchKm": 20.0
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-proboj",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 44.4028611,
+        "originLon": 15.0391944,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "moderate",
+            "fetchKm": 1.84
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.42
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.27
+          },
+          "jugo": {
+            "level": "lower",
+            "fetchKm": 0.32
+          },
+          "ostro": {
+            "level": "lower",
+            "fetchKm": 0.46
+          },
+          "lebic": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 20.0
+          },
+          "maestral": {
+            "level": "higher",
+            "fetchKm": 20.0
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-sv-petar",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 43.99875,
+        "originLon": 15.3725556,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.23
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.3
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.8
+          },
+          "jugo": {
+            "level": "higher",
+            "fetchKm": 18.39
+          },
+          "ostro": {
+            "level": "moderate",
+            "fetchKm": 4.82
+          },
+          "lebic": {
+            "level": "moderate",
+            "fetchKm": 3.68
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 10.99
+          },
+          "maestral": {
+            "level": "higher",
+            "fetchKm": 20.0
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-ugrinic",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 5,
+        "originLat": 43.9335278,
+        "originLon": 15.3966111,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "moderate",
+            "fetchKm": 2.56
+          },
+          "bura": {
+            "level": "moderate",
+            "fetchKm": 4.09
+          },
+          "levant": {
+            "level": "higher",
+            "fetchKm": 8.84
+          },
+          "jugo": {
+            "level": "higher",
+            "fetchKm": 15.89
+          },
+          "ostro": {
+            "level": "lower",
+            "fetchKm": 0.29
+          },
+          "lebic": {
+            "level": "lower",
+            "fetchKm": 0.36
+          },
+          "pulenat": {
+            "level": "lower",
+            "fetchKm": 0.47
+          },
+          "maestral": {
+            "level": "moderate",
+            "fetchKm": 2.3
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-vir-uvala-slatinica",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 6,
+        "originLat": 44.3093889,
+        "originLon": 15.0893333,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "higher",
+            "fetchKm": 10.14
+          },
+          "bura": {
+            "level": "moderate",
+            "fetchKm": 2.36
+          },
+          "levant": {
+            "level": "moderate",
+            "fetchKm": 3.06
+          },
+          "jugo": {
+            "level": "lower",
+            "fetchKm": 0.63
+          },
+          "ostro": {
+            "level": "lower",
+            "fetchKm": 0.41
+          },
+          "lebic": {
+            "level": "lower",
+            "fetchKm": 0.36
+          },
+          "pulenat": {
+            "level": "moderate",
+            "fetchKm": 1.17
+          },
+          "maestral": {
+            "level": "higher",
+            "fetchKm": 20.0
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-vlasici",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 4,
+        "originLat": 44.3209167,
+        "originLon": 15.2143889,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.25
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.31
+          },
+          "levant": {
+            "level": "higher",
+            "fetchKm": 7.48
+          },
+          "jugo": {
+            "level": "higher",
+            "fetchKm": 10.52
+          },
+          "ostro": {
+            "level": "moderate",
+            "fetchKm": 1.23
+          },
+          "lebic": {
+            "level": "lower",
+            "fetchKm": 0.56
+          },
+          "pulenat": {
+            "level": "lower",
+            "fetchKm": 0.51
+          },
+          "maestral": {
+            "level": "lower",
+            "fetchKm": 0.3
+          }
+        }
+      }
+    },
+    {
+      "id": "port-zadar-luka-vrsi-uvala-skoljic",
+      "coastalExposure": {
+        "method": "osm-coastal-fetch-v1",
+        "coastlineDate": "2026-05-31T22:37:44Z",
+        "sourceSHA256": "30606e80285b0b5fe6c13af2e8d8be1a8feb37bbdd23dd2daa24761a28dc0224",
+        "attribution": "© OpenStreetMap contributors",
+        "sourceURL": "https://www.openstreetmap.org/copyright",
+        "license": "ODbL-1.0",
+        "licenseURL": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "sampleRadiusM": 200,
+        "sampleCount": 4,
+        "originLat": 44.2576667,
+        "originLon": 15.2130278,
+        "originOffsetM": 0,
+        "directions": {
+          "tramontana": {
+            "level": "lower",
+            "fetchKm": 0.9
+          },
+          "bura": {
+            "level": "lower",
+            "fetchKm": 0.28
+          },
+          "levant": {
+            "level": "lower",
+            "fetchKm": 0.26
+          },
+          "jugo": {
+            "level": "lower",
+            "fetchKm": 0.35
+          },
+          "ostro": {
+            "level": "moderate",
+            "fetchKm": 1.17
+          },
+          "lebic": {
+            "level": "moderate",
+            "fetchKm": 2.88
+          },
+          "pulenat": {
+            "level": "higher",
+            "fetchKm": 5.97
+          },
+          "maestral": {
+            "level": "higher",
+            "fetchKm": 20.0
+          }
+        }
+      }
+    }
+  ]
+}
