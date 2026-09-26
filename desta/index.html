@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy — Desta</title>
-    <style>
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Privacy Policy — Desta</title><style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { background-color: #0a0a0a; color: #e0e0e0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.7; padding: 40px 20px; max-width: 800px; margin: 0 auto; }
         h1 { color: #ffffff; font-size: 2em; margin-bottom: 8px; font-weight: 700; }
@@ -16,66 +12,50 @@
         a { color: #6ea8fe; text-decoration: none; }
         a:hover { text-decoration: underline; }
         strong { color: #e0e0e0; }
-    </style>
-</head>
+    </style></head>
 <body>
+<nav aria-label="Language"><a href="/desta/" lang="en">English</a> · <a href="/desta/hr/" lang="hr">Hrvatski</a></nav>
+<main>
 <h1>Privacy Policy — Desta</h1>
-
-<p><strong>Last updated:</strong> July 31, 2026</p>
-<p><strong>Developer:</strong> Dino Bozic (Dinz) · <a href="mailto:dinz@dinzzz.com">dinz@dinzzz.com</a></p>
-
-<h2>Who we are</h2>
-<p>Desta is a boating weather app operated by Dinz ("we", "us"). For EU data-protection purposes, Dinz is the data controller. Desta is designed to work <strong>without an account</strong> — we do not ask for your name, email, or a login.</p>
-
-<h2>What we collect</h2>
+<p>Last updated: 26 September 2026</p>
+<h2>Who is responsible</h2>
+<p>Desta is operated by <strong>Dinzel IT d.o.o.</strong>, full registered name <strong>Dinzel IT društvo s ograničenom odgovornošću za računalne djelatnosti i usluge</strong>, Ulica Lea Müllera 43, 10090 Zagreb, Croatia, OIB <strong>94890617087</strong>. We are the controller for personal data we use to operate Desta. Contact <strong>dinz@dinzzz.com</strong>, or write to that address, for support and privacy requests.</p>
+<h2>Information we process</h2>
 <ul>
-<li><strong>Location (precise, while using the app).</strong> With your permission, we use your device location to show weather, wind, waves, and tides for where you are. Your coordinates are sent to our own backend and to our weather data providers to retrieve a forecast for that point, and are used with Apple's geocoder to display a nearby place name. We do not track your location in the background and do not build a location history on our servers.</li>
-<li><strong>Diagnostics / crash data.</strong> We use Google Firebase Crashlytics to record crashes and app stability data — device model, operating-system version, app version, crash logs, and a Crashlytics installation identifier. This helps us fix bugs. It is not used to identify you personally or for advertising.</li>
-<li><strong>On-device settings.</strong> Your preferences (units, saved spots, last viewed location, boat speed) are stored only on your device and are not sent to us.</li>
+<li><strong>Accounts:</strong> email, display name when supplied, account and Apple/Google sign-in identifiers, verification status and creation/login times. Email accounts use password hashes. Session records and encrypted Apple authorization credentials support authentication and authorization revocation. We do not ask for your Apple or Google password.</li>
+<li><strong>Location:</strong> device location, with permission, and places you select are used for weather, maps and planning. Coordinates are sent to our backend and relevant weather/map services for the requested result. Active passage and anchor-watch features can use location in the background. You can stop those tools and change permissions in iOS Settings.</li>
+<li><strong>Synced preferences:</strong> account preferences include units, boat dimensions/speed, recent places and the last route destination. Saved places can contain precise coordinates and are linked to your account. These preferences are not stored only on your phone.</li>
+<li><strong>Devices and alerts:</strong> device identifiers, push tokens, account/session association, language, time zone, app version and activity times support registration and notifications. Alert rules include chosen locations, thresholds and schedules. Availability and delivery depend on the service, permissions and device operation.</li>
+<li><strong>Purchases:</strong> Apple product/transaction identifiers, account association, purchase/expiry dates and entitlement status support paid access and restoration. Apple processes payment credentials; Desta does not receive your full card details through StoreKit.</li>
+<li><strong>Diagnostics:</strong> Firebase Crashlytics processes crash information, device/OS/app details and installation identifiers when reporting is enabled. Identifiers are not necessarily anonymous. See the choices below.</li>
+<li><strong>Support and operations:</strong> correspondence you send us and technical/security records needed to provide support, prevent abuse and operate the service. Hosting and other network providers may receive IP addresses and request metadata. Do not send passwords or verification codes to support.</li>
 </ul>
-<p>We do not collect contacts, photos, health data, or advertising identifiers, and we do not track you across other apps or websites.</p>
-
-<h2>How we use it</h2>
-<ul>
-<li>To provide the core features — current conditions and forecasts for your location and chosen spots.</li>
-<li>To keep the app stable and diagnose crashes.</li>
-</ul>
-<p>Legal bases (GDPR): providing the forecasts you request relies on legitimate interest and on the consent you give through the device's location permission, which you can withdraw at any time in iOS Settings. Crash diagnostics rely on our legitimate interest in a stable, secure product.</p>
-
-<h2>Who we share it with</h2>
-<p>We use trusted providers strictly to deliver the service, under their own privacy policies:</p>
-<ul>
-<li><strong>Apple WeatherKit / Apple Maps</strong> — weather data and maps.</li>
-<li><strong>Open-Meteo</strong> — weather and marine model data, accessed through our backend.</li>
-<li><strong>WorldTides</strong> — tide predictions, accessed through our backend.</li>
-<li><strong>Google Firebase (Crashlytics)</strong> — crash reporting.</li>
-<li><strong>Railway</strong> — hosting for our backend.</li>
-</ul>
-<p>Unlike many weather apps, we do <strong>not</strong> use your data for targeted advertising, do <strong>not</strong> sell it, and do <strong>not</strong> share your location with data brokers or ad networks.</p>
-
-<h2>Data retention</h2>
-<ul>
-<li><strong>Location:</strong> our backend caches forecast responses keyed to a coarse grid (~11 km) for a short period (hours) to reduce upstream calls; it is not tied to an account or a persistent identifier and expires automatically. We do not keep a personal location history.</li>
-<li><strong>Crash data:</strong> retained by Firebase Crashlytics per Google's defaults (typically up to 90 days).</li>
-<li><strong>On-device settings:</strong> remain on your device until you delete the app.</li>
-</ul>
-
-<h2>International transfers</h2>
-<p>Some providers (e.g., Google Firebase) process data outside the EU/EEA, including the United States. Where required, transfers rely on appropriate safeguards such as the EU Standard Contractual Clauses.</p>
-
-<h2>Your rights</h2>
-<p>Depending on your location (GDPR/EEA, UK, California), you may have rights to access, correct, delete, or restrict processing of your personal data, and to lodge a complaint with a supervisory authority (in Croatia, AZOP). Because Desta has no account, most of your data lives on your device — deleting the app removes it — or is anonymous diagnostics. For crash-data requests, contact <a href="mailto:dinz@dinzzz.com">dinz@dinzzz.com</a>.</p>
-
-<h2>Children</h2>
-<p>Desta is not directed to children and is rated 4+. We do not knowingly collect data from children.</p>
-
-<h2>Security</h2>
-<p>We use encrypted connections (HTTPS/TLS) for all network traffic. No method of transmission or storage is completely secure, but we take reasonable measures to protect your information.</p>
-
-<h2>Changes</h2>
-<p>We may update this policy; material changes will be reflected here with a new "Last updated" date.</p>
-
-<h2>Contact</h2>
-<p><a href="mailto:dinz@dinzzz.com">dinz@dinzzz.com</a></p>
+<p>Passage records, active anchor/return positions and some preferences are stored locally. Legacy position-marker data from earlier versions is also local; updated builds remove the retired marker. Local files and device backups are separate from server-side account data.</p>
+<h2>Purposes and legal bases</h2>
+<p>We process data to deliver requested features, authenticate accounts, sync preferences, verify purchases, provide support and protect the service. Where GDPR applies, we rely on contract for processing objectively necessary to provide the requested service, legitimate interests for proportionate security/abuse prevention and legal claims, and applicable legal obligations for statutory records and requests. Optional crash-report sharing relies on consent in versions offering that choice. Device access and other optional processing require consent where applicable law requires it.</p>
+<p>Location permission is not permission for unrelated advertising. We do not sell your personal data to data brokers, use it for targeted advertising or track you across other apps for advertising. No advertising network is included in Desta.</p>
+<h2>Your controls</h2>
+<p>You can select a place without allowing device location. Denying or limiting location disables features that need an accurate position. Stop an active passage or anchor watch when it is no longer needed. Manage location and notification permissions in iOS Settings.</p>
+<p>In versions with <strong>Settings → Privacy → Share crash reports</strong>, reporting is off by default. Enabling it allows reports from use after that choice to be sent on a later launch while it remains enabled. Turning it off prevents future app-initiated uploads and discards pending reports; it does not recall reports already sent. The SDK may keep local crash information until a later cleanup. Earlier versions without this control initialize automatic crash reporting; their behaviour differs from the updated opt-in implementation.</p>
+<h2>Providers and recipients</h2>
+<p>We use Railway for backend hosting, Google Firebase for crash diagnostics, Resend for account emails, Apple/Google for your chosen sign-in provider, and Apple for App Store purchases, push delivery, maps/geocoding and WeatherKit. Open-Meteo provides weather and marine forecasts, WorldTides provides tide predictions, and MeteoAlarm supplies Croatian warnings. Earlier versions may request RainViewer radar information; the updated precipitation outlook uses Open-Meteo.</p>
+<p>Some requests pass through our backend; others go directly from the device. A direct recipient can receive your network address and request information. Providers act as processors where they operate on our instructions, and may independently control parts of their own services under their privacy policies. We may also disclose information where necessary to comply with law, establish or defend legal claims, or protect rights. A corporate transfer remains subject to applicable privacy and notice requirements.</p>
+<h2>International processing</h2>
+<p>Some providers process information outside Croatia and the EEA, including in the United States. The applicable transfer arrangement depends on the provider, service and receiving entity; an EEA hosting region alone does not determine all processing locations. Contact us for the recipients, relevant adequacy arrangements or contractual safeguards and how to obtain information about safeguards applicable to your data. Your rights under applicable transfer rules remain unaffected.</p>
+<h2>Retention</h2>
+<p>Account and synced preference data normally remain while your account is active, until replaced or deleted. Valid account-deletion requests remove associated active application records, subject to specific legal retention duties. We do not retain a whole account indefinitely simply because a particular record is needed for a claim.</p>
+<p>Our updated backend runs daily cleanup for verification/reset challenges more than one day past expiry, refresh-session records more than 30 days past expiry, alert-event records older than 30 days, and Apple notification-processing records older than 90 days. Cleanup resumes after an interrupted maintenance run. These periods do not extend a token&#x27;s validity and do not describe Apple&#x27;s independent transaction records.</p>
+<p>Written consumer-complaint records are retained for the statutory one-year period. Purchase, accounting and claim records are retained to meet the specific applicable obligation or resolve the relevant dispute, with access limited accordingly. General support records are retained as needed to resolve the issue and any related claim. Technical logs and backup copies have separate provider/backup lifecycles; deletion from the live application is not a promise that every backup copy disappears immediately. Retained backup copies are for recovery and must not be used to restore deleted accounts into ordinary service.</p>
+<p>Firebase describes retaining relevant crash information and associated identifiers for 90 days before starting removal from live and backup systems. This is not a guarantee of complete erasure on day 90. <a href="https://firebase.google.com/support/privacy">Firebase retention information</a>.</p>
+<p>Local records remain subject to the app&#x27;s controls and your device/backup settings. Uninstalling does not delete your server account or Apple&#x27;s purchase records.</p>
+<h2>Account deletion and your rights</h2>
+<p>Use the account-deletion control in Desta Settings, or email us if you cannot access it or it fails. Account deletion does not cancel an App Store subscription; manage billing separately in your Apple subscription settings. You may request deletion while a subscription remains active. Contact us if account deletion affects restoring paid access.</p>
+<p>Depending on applicable law, you may request access, correction, deletion, restriction, objection, and a portable copy of relevant data. You may withdraw consent without affecting earlier lawful processing. We verify identity proportionately and respond within the applicable deadline—normally one month for GDPR requests, with lawful extensions explained where needed. Email <strong>dinz@dinzzz.com</strong>. You may complain directly to <a href="https://azop.hr/">AZOP</a> or another competent supervisory authority.</p>
+<p>We do not use solely automated decisions intended to produce legal or similarly significant effects about you. Forecast scores and automated entitlement checks support the service; contact us to question an account or purchase decision.</p>
+<h2>Children, security and changes</h2>
+<p>Desta is a general boating service, not designed for children. A store content rating is not proof of a child&#x27;s ability to consent or enter a contract. Where parental authorization is legally required, it must be obtained. Contact us if you believe a child&#x27;s information has been provided without the required authorization.</p>
+<p>We use safeguards appropriate to the information and risk, including encrypted network connections and restricted access. No system is completely secure. We will provide appropriate notice of material policy changes; publishing a new policy does not obtain consent for a new optional purpose.</p>
+</main>
+<footer><p>Dinzel IT d.o.o. · <a href="mailto:dinz@dinzzz.com">dinz@dinzzz.com</a></p><p><a href="/desta/archive/2026-07-31.html">Previous version / Prethodna verzija</a></p></footer>
 </body>
 </html>
